@@ -79,9 +79,9 @@ Distinguishing among similar cancer types and predicting responses to immune che
     
     **Table 3: Classifications for the datasets in skin cancer diagnosis**
 
-    <table><tr><th colspan="1" valign="top"><b>2-class</b></th><th colspan="1" valign="top"><b>3-class</b></th><th colspan="1" valign="top"><b>5-class</b></th><th colspan="1" valign="top"><b>Discovery Sets (Training set)</b></th><th colspan="1" valign="top"><b>Validation Sets</b></th></tr>
+    <table><tr><th colspan="1" valign="top"><b>2&nbsp;-&nbsp;class</b></th><th colspan="1" valign="top"><b>3&nbsp;-&nbsp;class</b></th><th colspan="1" valign="top"><b>5&nbsp;-&nbsp;class</b></th><th colspan="1" valign="top"><b>Discovery Sets (Training set)</b></th><th colspan="1" valign="top"><b>Validation Sets</b></th></tr>
     <tr><td colspan="3">Healthy</td><td colspan="1" valign="top">GSE30999 (85), GSE13355 (64), GSE03189 (25)</td><td colspan="1" valign="top">GSE02503 (6), GSE06710 (13), GSE07553 (4), GSE14905 (21), GSE15605 (16), GSE32407 (10), GSE32924 (8), GSE42677 (10), GSE52471 (13), GSE53462 (5), GSE82105 (6), GSE46517 (16), GSE53223 (18)</td></tr>
-    <tr><td colspan="1" rowspan="4">Disease</td><td colspan="1" rowspan="3">Non - MEL</td><td colspan="1">BCC</td><td colspan="1" valign="top">GSE07553 (15), GSE42109 (11)</td><td colspan="1" valign="top">GSE39612 (2), GSE53462 (16)</td></tr>
+    <tr><td colspan="1" rowspan="4">Disease</td><td colspan="1" rowspan="3">Non&nbsp;-&nbsp;MEL</td><td colspan="1">BCC</td><td colspan="1" valign="top">GSE07553 (15), GSE42109 (11)</td><td colspan="1" valign="top">GSE39612 (2), GSE53462 (16)</td></tr>
     <tr><td colspan="1">SCC</td><td colspan="1" valign="top">GSE45216 (30), GSE07553 (11)</td><td colspan="1" valign="top"><p>GSE02503 (5), GSE32628 (15), GSE39612 (4)</p><p>GSE42677 (10), GSE53462 (5), GSE66359 (8)</p></td></tr>
     <tr><td colspan="1">MCC</td><td colspan="1" valign="top">GSE39612 (30)</td><td colspan="1" valign="top">GSE36150 (15), GSE50451 (23)</td></tr>
     <tr><td colspan="2">MEL</td><td colspan="1" valign="top">GSE07553 (56), GSE15605 (58), GSE03189 (45)</td><td colspan="1" valign="top">GSE29359 (82), GSE46517 (83), GSE82105 (6)</td></tr>
